@@ -7,6 +7,7 @@ class Line
 {
 public:
 	string line;
+
 	Line();
 	string getLine();
 	void setLine(string l);
